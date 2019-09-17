@@ -1,3 +1,5 @@
+Open one of the links , these are 2 ways to view python notebooks:
+
 # Stock-Prediction-with-regression-in-scikit
 This shows and compares 4 different types of regression SVR , linear , ridge and lasso to predict stock prices
 
